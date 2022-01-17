@@ -1,6 +1,6 @@
 ---
 role: Assistant Teacher
-avatar_filename: 29092877.jpg
+avatar_filename: avatar.jpg
 bio: Interested in asymptotic approximations and numerical consequences
 interests:
   - Asymptotic expansions
