@@ -21,8 +21,8 @@ organizations:
     url: https://ensimag.grenoble-inp.fr/
   - name: LJK
     url: https://www-ljk.imag.fr/
-education:
-  courses: []
+<!-- education: -->
+<!--   courses: [] -->
 superuser: true
 highlight_name: true
 title: Léopold Trémant
